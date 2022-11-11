@@ -1,4 +1,4 @@
-person_name elizaveta
-person_surname shahovets
-age 22
-salary 1000
+person_name: elizaveta
+person_surname: shahovets
+age: 22
+salary: 1000
