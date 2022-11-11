@@ -1,0 +1,4 @@
+favorite_movie catch me if you can
+favorite_series friends
+favorite_season autumn
+favorite_country Spain
